@@ -1,5 +1,5 @@
 /**Programa: printfScanf
- * El objetivo buscado es introducir al alumno en el uso de los
+ * Descripción: El objetivo buscado es introducir al alumno en el uso de los
  * procedimientos printf y scanf*/
  
 #include <stdio.h>

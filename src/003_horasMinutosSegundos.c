@@ -1,6 +1,6 @@
 /**Programa: horasMinutosSegundos
  * Fuente: Libro asignatura Fundamentos de Programación UNED. Cerrada Somolinos et al.
- * El objetivo buscado es introducir al alumno en el uso de los
+ * Descripción: El objetivo buscado es introducir al alumno en el uso de los
  * procedimientos printf y scanf. Sirve además para aplicar
  * operaciones matemáticas y conversiones*/
  
