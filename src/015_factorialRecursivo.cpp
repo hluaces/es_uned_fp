@@ -14,7 +14,7 @@ int FactorialRecursivo(int n){
 }
 
 int main(){
-	for (int i=0,i<=10;i++){
+	for (int i=0;i<=10;i++){
 		printf("%2d! vale:%10d\n",i,FactorialRecursivo(i));
 	}
 	return 0;
